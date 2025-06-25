@@ -10,7 +10,7 @@ This ongoing portfolio showcases my hands-on practice in **manual testing, bug r
 
 | Category | Description |
 |----------|-------------|
-| **Test Cases** | Manual test cases written in Google Sheets for websites like Jira, Lindt, and Nespresso |
+| **Test Cases** | Manual test cases written in Google Sheets for real consumer websites |
 | **Bug Reports** | Trello screenshots and markdown summaries simulating real-world bug tracking |
 | **Exploratory Testing** | Usability observations and testing notes for real consumer websites |
 | **Automation** | Selenium scripts for UI testing and Postman collections for API testing |
@@ -20,12 +20,12 @@ This ongoing portfolio showcases my hands-on practice in **manual testing, bug r
 
 ## Tools & Skills
 
-- **Manual Testing**, Exploratory Testing, Usability Testing
+- **Manual Testing** and Exploratory Testing
+- Test Case Design and Bug Reporting
 - **Trello** (Bug tracking)
 - **Google Sheets** (Test case management)
-- **Selenium** (UI Automation)
-- **Postman** (API Testing)
-- Understanding of **SDLC**, Test Case Design, and Bug Reporting
+- **Selenium** (UI automation)
+- **Postman** (API testing)
 
 ---
 

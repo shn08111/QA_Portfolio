@@ -34,10 +34,10 @@
 ## Screenshot
 
 *A screenshot of the search result for "ejgheurtbkdf":*
-![Search Result For "ejgheurtbkdf"](../../images/spotify/returns_result_for_ejgheurtbkdf.png)
+![Search Result For "ejgheurtbkdf"](../images/spotify/returns_result_for_ejgheurtbkdf.png)
 
 *A screenshot of the search result for "ejgheurtb":*
-![Search Result For "ejgheurtb"](../../images/spotify/no_result_for_ejgheurtb.png)
+![Search Result For "ejgheurtb"](../images/spotify/no_result_for_ejgheurtb.png)
 
 ---
 

@@ -34,7 +34,7 @@
 ## Screenshot
 
 *A screenshot of the search result for "!@#$%":*
-![Unexpected Behavior With Special Characters](../../images/spotify/unexpected_behavior_with_special_characters.png)
+![Unexpected Behavior With Special Characters](../images/spotify/unexpected_behavior_with_special_characters.png)
 
 ---
 

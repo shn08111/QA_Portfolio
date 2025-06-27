@@ -21,23 +21,23 @@
 
 ## Expected Result
 
-- Search should return no results and display a “No results found” message  
+- Search should return no results and display a "No results found" message  
 
 ## Actual Result
 
 - Search returned results even though a song called "ejgheurtbkdf" does not exist
 - The search result seemed to be irrelevant to the search input "ejgheurtbkdf"
-- Interestingly, the search input "ejgheurtb" returned no results and displayed the following message: ‘No results found for "ejgheurtb"’
+- Interestingly, the search input "ejgheurtb" returned no results and displayed the following message: 'No results found for "ejgheurtb"'
 
 ---
 
 ## Screenshot
 
-*A screenshot of the search result for “ejgheurtbkdf”:*
-![Search Result For “ejgheurtbkdf”](../../images/spotify/returns_result_for_ejgheurtbkdf.png)
+*A screenshot of the search result for "ejgheurtbkdf":*
+![Search Result For "ejgheurtbkdf"](../../images/spotify/returns_result_for_ejgheurtbkdf.png)
 
-*A screenshot of the search result for “ejgheurtb”:*
-![Search Result For “ejgheurtb”](../../images/spotify/no_result_for_ejgheurtb.png)
+*A screenshot of the search result for "ejgheurtb":*
+![Search Result For "ejgheurtb"](../../images/spotify/no_result_for_ejgheurtb.png)
 
 ---
 

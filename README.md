@@ -1,30 +1,34 @@
-# QA Portfolio – Sohjeong Yun
+# QA Portfolio by Sohjeong Yun
 
-Hi! I’m Sohjeong Yun, a Computer Science graduate passionate about software quality and testing.
-
-This ongoing portfolio showcases my hands-on practice in **manual testing, bug reporting, exploratory testing**, and my learning journey with QA tools like **Selenium, Postman, and JIRA**.
+This repository showcases my hands-on practice in **manual testing, bug reporting, exploratory testing**, and my learning journey with QA tools like **Selenium, Postman, and JIRA**.
 
 ---
 
-## What’s in this Portfolio
+## What You'll Find
 
-| Category | Description |
-|----------|-------------|
-| **Test Cases** | Manual test cases written in Google Sheets for real consumer websites |
-| **Bug Reports** | Trello screenshots and markdown summaries simulating real-world bug tracking |
-| **Exploratory Testing** | Usability observations and testing notes for real consumer websites |
-| **Automation** | Selenium scripts for UI testing and Postman collections for API testing |
-| **Learning Logs** | Notes on QA tools, testing strategies, and next steps in my learning path |
+Each project includes:
+- Manual test cases (Excel format)
+- Bug reports (Markdown format)
+- Exploratory testing report (Markdown format)
+
+---
+
+## Projects
+
+### Spotify Project
+- [Test Cases](test_cases/spotify_test_cases.xlsx)
+- [Bug Tracker (Trello Board)](https://trello.com/b/ncpdpPvP/spotify-qa-bug-tracking)
+- [Exploratory Report](exploratory_testing/spotify/exploratory_report.md)
 
 ---
 
 ## Tools & Skills
 
-- **Manual Testing** and Exploratory Testing
-- Test Case Design and Bug Reporting
+- Manual testing and exploratory testing of real websites
+- Test case writing and bug reporting
 - **Trello** (Bug tracking)
 - **Google Sheets** (Test case management)
-- **Selenium** (UI automation)
+- **Selenium** (UI testing automation)
 - **Postman** (API testing)
 
 ---

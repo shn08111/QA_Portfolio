@@ -43,7 +43,10 @@
 
 ---
 
-## Screenshots or Examples
+## Screenshots
+
+*A screenshot of the manual test cases written for this website:*
+[![Test Cases Screenshot](../../test_cases/screenshots/spotify_test_cases.png)](../../test_cases/spotify_test_cases.xlsx)
 
 *A screenshot of the search bar at the top of the page:*
 ![Spotify Search Bar 1](../../images/spotify/search_bar_1.png)

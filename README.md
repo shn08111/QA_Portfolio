@@ -33,8 +33,8 @@ Each project includes:
 
 ---
 
-## What’s Next
+## Next Steps
 
-- Expand Selenium and Postman projects
-- Learn and document JIRA workflows
-- Explore test planning and writing test scripts
+- Learn JIRA for professional bug tracking
+- Practice API testing with Postman
+- Learn Selenium for automation

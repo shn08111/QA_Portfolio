@@ -18,7 +18,7 @@ Each project includes:
 ### Spotify Project
 - [Test Cases](test_cases/spotify_test_cases.xlsx)
 - [Bug Tracker (Trello Board)](https://trello.com/b/ncpdpPvP/spotify-qa-bug-tracking)
-- [Exploratory Report](exploratory_testing/spotify/exploratory_report.md)
+- [Exploratory Testing](exploratory_testing/spotify/exploratory_report.md)
 
 ---
 

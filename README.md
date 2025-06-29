@@ -24,7 +24,7 @@ Each project includes:
 
 ## Tools & Skills
 
-- Manual testing and exploratory testing of real websites
+- Manual testing and exploratory testing
 - Test case writing and bug reporting
 - **Trello** (Bug tracking)
 - **Google Sheets** (Test case management)
@@ -37,4 +37,4 @@ Each project includes:
 
 - Expand Selenium and Postman projects
 - Learn and document JIRA workflows
-- Explore test planning and writing test scripts in different frameworks
+- Explore test planning and writing test scripts

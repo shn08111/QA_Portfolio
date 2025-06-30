@@ -30,7 +30,7 @@
 
 ## Issues or UX Concerns
 
-- Lindt Excellence page shows irrelevant products (see bug report for [TC_LT_Filter_001](../../bug_reports/lindt_report_for_TC_LT_Filter_001.md))
+- Lindt Excellence page shows irrelevant products (see bug report for [TC_LT_Filter_001](../../bug_reports/lindt_bug_report_for_TC_LT_Filter_001.md))
 - Takes a couple of seconds for the page to load when applying or removing filters
 - Confusing filter values (i.e., "Bar" vs. "Bars") for "Chocolate Format" filter category for Lindt Excellence products
 - Some images for "Pick & Mix" products are misleading (i.e., the image suggests that the consumer can choose the flavor for each Lindor truffle but can actually choose only two flavors)

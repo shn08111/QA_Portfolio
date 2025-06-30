@@ -20,6 +20,11 @@ Each project includes:
 - [Bug Tracker (Trello Board)](https://trello.com/b/ncpdpPvP/spotify-qa-bug-tracking)
 - [Exploratory Testing](exploratory_testing/spotify/exploratory_report.md)
 
+### Lindt Project
+- [Test Cases](test_cases/lindt_test_cases.xlsx)
+- [Bug Tracker (Trello Board)](https://trello.com/b/dqiUp5tr/lindt-qa-bug-tracking)
+- [Exploratory Testing](exploratory_testing/lindt/exploratory_report.md)
+
 ---
 
 ## Tools & Skills

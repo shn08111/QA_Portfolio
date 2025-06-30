@@ -29,9 +29,9 @@
 
 ## Issues or UX Concerns
 
-- Inconsistent search result for different combinations of random letters (see bug report for [TC_SP_Search_005](../../bug_reports/spotify_bug_report_for_TC_SP_Search_005.md))
-- Unexpected behavior occurs in the search bar for certain combinations of special characters (see bug report for [TC_SP_Search_006](../../bug_reports/spotify_bug_report_for_TC_SP_Search_006.md))
-- The left arrow to move back the text cursor does not work on the search bar but works on the search bar that appears when pressing Ctrl K
+- Inconsistent search result for different combinations of random letters (see bug report for [TC_SP_Search_005](../../bug_reports/spotify_bug_report_for_TC_SP_Search_005.md)) (see **Figure 1**)
+- Unexpected behavior occurs in the search bar for certain combinations of special characters (see bug report for [TC_SP_Search_006](../../bug_reports/spotify_bug_report_for_TC_SP_Search_006.md)) (see **Figure 1**)
+- The left arrow to move back the text cursor does not work on the search bar but works on the search bar that appears when pressing Ctrl K (refer to **Figure 2** and **Figure 3**)
 
 ---
 
@@ -45,13 +45,20 @@
 
 ## Screenshots
 
-*A screenshot of the manual test cases written for this website:*
-[![Test Cases Screenshot](../../test_cases/screenshots/spotify_test_cases.png)](../../test_cases/spotify_test_cases.xlsx)
+![Test Cases Screenshot](../../test_cases/screenshots/spotify_test_cases.png)
 
-*A screenshot of the search bar at the top of the page:*
+**Figure 1:** A screenshot of the manual test cases written for this website
+
+---
+
 ![Spotify Search Bar 1](../../images/spotify/search_bar_1.png)
 
-*A screenshot of the search bar that appears when pressing Ctrl K:*
+**Figure 2:** A screenshot of the search bar at the top of the page
+
+---
+
 ![Spotify Search Bar 2](../../images/spotify/search_bar_2.png)
+
+**Figure 3:** A screenshot of the search bar that appears when pressing Ctrl K
 
 

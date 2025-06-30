@@ -30,10 +30,10 @@
 
 ## Issues or UX Concerns
 
-- Lindt Excellence page shows irrelevant products (see bug report for [TC_LT_Filter_001](../../bug_reports/lindt_bug_report_for_TC_LT_Filter_001.md))
+- Lindt Excellence page shows irrelevant products (see bug report for [TC_LT_Filter_001](../../bug_reports/lindt_bug_report_for_TC_LT_Filter_001.md)) (see **Figure 1**)
 - Takes a couple of seconds for the page to load when applying or removing filters
-- Confusing filter values (i.e., "Bar" vs. "Bars") for "Chocolate Format" filter category for Lindt Excellence products
-- Some images for "Pick & Mix" products are misleading (i.e., the image suggests that the consumer can choose the flavor for each Lindor truffle but can actually choose only two flavors)
+- Confusing filter values (i.e., "Bar" vs. "Bars") for "Chocolate Format" filter category for Lindt Excellence products (see **Figure 2**)
+- Some images for "Pick & Mix" products are misleading (i.e., the image suggests that the consumer can choose the flavor for each Lindor truffle but can actually choose only two flavors) (see **Figure 3**)
 - Too many categories in the dropdown list of the navigation bar and some are repetitive
 
 ---
@@ -50,13 +50,20 @@
 
 ## Screenshots
 
-*A screenshot of the manual test cases written for this website:*
-[![Test Cases Screenshot](../../test_cases/screenshots/lindt_test_cases.png)](../../test_cases/lindt_test_cases.xlsx)
+![Test Cases Screenshot](../../test_cases/screenshots/lindt_test_cases.png)
 
-*A screenshot of the filter values "Bar" and "Bars" for "Chocolate Format" filter category for Lindt Excellence products:*
+**Figure 1:** A screenshot of the manual test cases written for this website
+
+---
+
 ![Filter Values](../../images/lindt/confusing_filter_values.png)
 
-*A screenshot of the misleading images for some "Pick & Mix" products:*
+**Figure 2:** A screenshot of the filter values "Bar" and "Bars" for "Chocolate Format" filter category for Lindt Excellence products
+
+---
+
 ![Pick & Mix](../../images/lindt/misleading_images_for_pick_&_mix.png)
+
+**Figure 3:** A screenshot of the misleading images for some "Pick & Mix" products
 
 

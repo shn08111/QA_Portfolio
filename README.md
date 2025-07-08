@@ -15,15 +15,20 @@ Each project includes:
 
 ## Projects
 
-### Spotify Project
-- [Test Cases](test_cases/spotify_test_cases.xlsx)
-- [Bug Tracker (Trello Board)](https://trello.com/b/ncpdpPvP/spotify-qa-bug-tracking)
-- [Exploratory Testing](exploratory_testing/spotify/exploratory_report.md)
+### DAVIDsTEA Project
+- [Test Cases](test_cases/davidstea_test_cases.xlsx)
+- [Bug Tracker (Trello Board)](https://trello.com/b/QCJ83s1N/davidstea-qa-bug-tracking)
+- [Exploratory Testing](exploratory_testing/davidstea/exploratory_report.md)
 
 ### Lindt Project
 - [Test Cases](test_cases/lindt_test_cases.xlsx)
 - [Bug Tracker (Trello Board)](https://trello.com/b/dqiUp5tr/lindt-qa-bug-tracking)
 - [Exploratory Testing](exploratory_testing/lindt/exploratory_report.md)
+
+### Spotify Project
+- [Test Cases](test_cases/spotify_test_cases.xlsx)
+- [Bug Tracker (Trello Board)](https://trello.com/b/ncpdpPvP/spotify-qa-bug-tracking)
+- [Exploratory Testing](exploratory_testing/spotify/exploratory_report.md)
 
 ---
 
